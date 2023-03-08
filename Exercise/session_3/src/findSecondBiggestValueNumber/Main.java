@@ -1,3 +1,5 @@
+package findSecondBiggestValueNumber;
+
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -24,5 +26,4 @@ public class Main {
            }
        }
         System.out.println("Your second biggest value is: " + result);
-    }
-}
+    }}
