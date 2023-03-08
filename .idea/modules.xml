@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MD3.iml" filepath="$PROJECT_DIR$/.idea/MD3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise/session_1/session_1.iml" filepath="$PROJECT_DIR$/Exercise/session_1/session_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/session_1/session_11.iml" filepath="$PROJECT_DIR$/Practice/session_1/session_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise/session_2/session_2.iml" filepath="$PROJECT_DIR$/Exercise/session_2/session_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/session_2/session_21.iml" filepath="$PROJECT_DIR$/Practice/session_2/session_21.iml" />
+    </modules>
+  </component>
+</project>
