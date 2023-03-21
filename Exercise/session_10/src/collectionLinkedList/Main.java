@@ -14,7 +14,7 @@ public class Main {
         myLinkedListTest.remove(1);
         myLinkedListTest.clone();
 
-//        myLinkedListTest.printList();
-//        System.out.println(myLinkedListTest);
+        myLinkedListTest.printList();
+        System.out.println(myLinkedListTest);
     }
 }
