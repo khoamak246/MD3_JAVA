@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fab7d3e1-6bb7-455d-9308-bdd7c681a369" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/session_1/session_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session_10/session_10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session_11/session_11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session_12/session_12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session_13/session_13.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session_14/session_14.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session_15/session_15.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session_16/session_16.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session_2/session_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session_3/session_3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session_4/session_4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session_5/session_5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session_6/session_6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session_7/session_7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session_8/session_8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session_9/session_9.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2NOZj5M43qHmhxP0FDxfWzHjfYV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Personal/Study/Course/IT/JAVA/MD3/Practice",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fab7d3e1-6bb7-455d-9308-bdd7c681a369" name="Changes" comment="" />
+      <created>1679537220294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679537220294</updated>
+      <workItem from="1679537221524" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
